@@ -8,7 +8,7 @@
 
 **Qual motivo do nome?**
 
-* Estava assistindo bleach quando decedi iniciar um projeto de bot para o discord
+* Estava assistindo bleach quando decidi iniciar um projeto de bot para o discord
 
 ### Atualizações
 
