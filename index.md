@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+# Bem vindo a página de Kazeshinibot
 
-You can use the [editor on GitHub](https://github.com/kurxz/kazeshinibot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## FAQ
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Qual plataforma é feita o bot?**
 
-### Markdown
+* Em NodeJS utilizando DiscordJS
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Qual motivo do nome?**
 
-```markdown
-Syntax highlighted code block
+* Estava assistindo bleach quando decedi iniciar um projeto de bot para o discord
 
-# Header 1
-## Header 2
-### Header 3
+### Atualizações
 
-- Bulleted
-- List
+**29/10/2020 - Versão 1.8**
 
-1. Numbered
-2. List
+* Lançamento
 
-**Bold** and _Italic_ and `Code` text
+**31/10/2020 - Versão 1.8.1:**
 
-[Link](url) and ![Image](src)
-```
+* Adicionado reações as palavras "hmm" e "humm"
+* Adicionado comando !piada
+* Comando !status atualizado
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Hotfix 03/11/2020**
 
-### Jekyll Themes
+* Arrumado o bug do prefixo
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kurxz/kazeshinibot/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Hotfix 07/11/2020**
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* Arquivo de ajuda em ordem alfabética
+* Texto de ajuda do comando !r6s foi arrumado
+* Consertado o comando !letra que não retornava nenhuma informação
