@@ -26,7 +26,7 @@
 
 * Arrumado o bug do prefixo
 
-**Hotfix 07/11/2020* - Versão 1.8.2**
+**Hotfix 07/11/2020 - Versão 1.8.2**
 
 * Arquivo de ajuda em ordem alfabética
 * Texto de ajuda do comando !r6s foi arrumado
