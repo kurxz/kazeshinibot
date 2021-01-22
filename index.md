@@ -31,3 +31,7 @@
 * Arquivo de ajuda em ordem alfabética
 * Texto de ajuda do comando !r6s foi arrumado
 * Consertado o comando !letra que não retornava nenhuma informação
+
+**Atualização 22/01/2021 - Versão 1.9**
+* Adicionado o comando !btc
+* Alterado tamanho da fonte dos comaandos !duelo e !hurr
