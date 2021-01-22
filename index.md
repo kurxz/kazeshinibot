@@ -34,4 +34,4 @@
 
 **Atualização 22/01/2021 - Versão 1.9**
 * Adicionado o comando !btc
-* Alterado tamanho da fonte dos comaandos !duelo e !hurr
+* Alterado tamanho da fonte dos comandos !duelo e !hurr
