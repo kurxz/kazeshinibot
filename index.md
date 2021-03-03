@@ -35,3 +35,9 @@
 **Atualização 22/01/2021 - Versão 1.9**
 * Adicionado o comando !btc
 * Alterado tamanho da fonte dos comandos !duelo e !hurr
+
+**Atualização 03/03/2021 - Versão 1.9.1**
+* Adicionado o comando !crypto. Para visualizar outras moedas, antes só havia o !btc
+* Comando !piada consertado
+* Comando !dev alterado para !sobre, com mais informações e a página da kazeshini
+
