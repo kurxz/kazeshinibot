@@ -12,22 +12,18 @@
 
 ### Atualizações
 
-**29/10/2020 - Versão 1.8**
-
+**Atualização 29/10/2020 - Versão 1.8**
 * Lançamento
 
-**31/10/2020 - Versão 1.8.1:**
-
+**Atualização 31/10/2020 - Versão 1.8.1:**
 * Adicionado reações as palavras "hmm" e "humm"
 * Adicionado comando !piada
 * Comando !status atualizado
 
 **Hotfix 03/11/2020**
-
 * Arrumado o bug do prefixo
 
 **Hotfix 07/11/2020 - Versão 1.8.2**
-
 * Arquivo de ajuda em ordem alfabética
 * Texto de ajuda do comando !r6s foi arrumado
 * Consertado o comando !letra que não retornava nenhuma informação
@@ -41,3 +37,6 @@
 * Comando !piada consertado
 * Comando !dev alterado para !sobre, com mais informações e a página da kazeshini
 
+**Atualização 10/03/2021 - Versão 1.9.2**
+- Adicionado um retorno ao comando !crypto caso ocorra um erro.
+- Alterada a API que fornece a letra de músicas
