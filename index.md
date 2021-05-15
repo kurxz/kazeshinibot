@@ -42,7 +42,7 @@
 - Alterada a API que fornece a letra de músicas
 
 **Atualização 15/05/2021 - Versão 1.9.5**
-- Adicionado novos comandos: !ship, !soco, !bolacristal
+- Adicionado novos comandos: !ship, !soco, !bolacristal, !textoreverso
 - Adicionado Reação a: hehe e hehehe
 - Removido o comando !btc
 - Novo comando de ajuda: Agora existe uma ajuda especifica para cada comando. Por exemplo para pedir ajuda do comando gato: !ajuda gato
