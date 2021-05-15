@@ -40,3 +40,10 @@
 **Atualização 10/03/2021 - Versão 1.9.2**
 - Adicionado um retorno ao comando !crypto caso ocorra um erro.
 - Alterada a API que fornece a letra de músicas
+
+**Atualização 15/05/2021 - Versão 1.9.5**
+- Adicionado novos comandos: !ship, !soco, !bolacristal
+- Adicionado Reação a: hehe e hehehe
+- Removido o comando !btc
+- Novo comando de ajuda: Agora existe uma ajuda especifica para cada comando. Por exemplo para pedir ajuda do comando gato: !ajuda gato
+- Novo [link](https://kurxz.github.io/kazeshinibot/convite/) de convite para a kazeshini
