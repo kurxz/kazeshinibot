@@ -49,4 +49,4 @@
 - Novo [link](https://kurxz.github.io/kazeshinibot/convite/) de convite para a kazeshini
 
 **Atualização 23/05/2021 - Versão 1.9.6**
-Novos comandos: !moedabrl, !convertermoedas, !jogar
+- Novos comandos: !moedabrl, !convertermoedas, !jogar
